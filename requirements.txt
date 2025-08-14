@@ -1,0 +1,17 @@
+# Works on macOS with Torch 2.2.x by using safetensors checkpoints
+transformers>=4.42.0
+torch>=2.2,<2.6
+safetensors>=0.4.3
+sentencepiece>=0.2.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+gradio>=4.31.0
+trafilatura>=1.8.0
+gradio==4.44.1
+fastapi==0.115.5
+starlette==0.40.0
+pydantic==2.8.2
+pydantic-core==2.20.1
+uvicorn==0.30.6
+httpx>=0.27,<0.28
+
